@@ -6,7 +6,7 @@ An AI system-prompt file that turns an LLM into an SEO strategist operating unde
 
 | File | Language | Use for |
 |---|---|---|
-| [`seo.md`](seo.md) | Vietnamese (original) | Vietnamese-market projects / Vietnamese content teams |
+| [`seo.vi.md`](seo.vi.md) | Vietnamese (original) | Vietnamese-market projects / Vietnamese content teams |
 | [`seo.en.md`](seo.en.md) | English (translation) | English-market projects, or feeding to English-only tools |
 
 Both files are functionally identical — same rules, same output formats. Keep them in sync: if you edit the ruleset in one, port the change to the other.
